@@ -1,21 +1,18 @@
-# GROK DEBUGGER
+GROK DEBUGGER
+
 
 #### Requirements : 
-	1. [Tech Stack](#tech_stack)
-	2. [Features List](#features)
- 	3. [Milestones](#milestone)
- 	4. [Deliverables](#deliverables)
- 	5. [Testing](#testing)
- 	6. [Data Sources](#data_sources)
- 	7. [Test Data Sources](#test_sources)
+1. [Tech Stack](#tech_stack)
+2. [Features List](#features)
+3. [Milestones](#milestone)
+4. [Testing](#testing)
+5. [Test Data Sources](#test_sources)
  
 
 ## <a name="tech_stack"></a> Technologies being used
 
-
 ### Front End :
  	* HTML, CSS, Javascript, jQuery
-
 
 ### Back  End :
  	* Python
@@ -37,6 +34,7 @@
 	1. Unit testing.
 	2. Integration testing.
 
+
 ## <a name ="test_sources"></a> Test Data Sources
-	Will be using modules like which generates test data(hypothesis)
+	Will be using modules which generates test cases(eg:hypothesis)
 	and create our own cases.
